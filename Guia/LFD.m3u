@@ -4,14 +4,16 @@
 #EXTINF:0,"Lista" [COLOR green]  I P T V  M A C  [/COLOR] - [COLOR blue]09-Enero-2016[/COLOR] 
 http://streaming.radionomy.com/80-EXITS
 
-#EXTINF:0,".......",[B][COLOR yellow] Donaciones via [/COLOR] [COLOR white]PayPal: iptvsalt@gmail.com[/B] [/COLOR]
+#EXTINF:0,".......",[B][COLOR yellow] Donaciones via [/COLOR] [COLOR white]PayPal: iptvsalt@gmail.com [/COLOR]
+
 http://streaming.radionomy.com/80-EXITS
 
 #EXTINF:0, [COLOR orange][B]---- Musica 80's ----[/B][/COLOR]
 http://streaming.radionomy.com/80-EXITS
 
 
-#EXTINF:0, group-title="etiquetas",[COLOR yellow][B]» » CANALES CALIDAD HD « «[/B][/COLOR]
+
+#EXTINF:0, [COLOR yellow][B]» » CANALES CALIDAD HD « «[/B][/COLOR]
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="A&E (1080)" group-title="REAL HD",A&E (1080)
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts

@@ -185,6 +185,9 @@ http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
+#EXTINF:-1,C+ COMEDIA HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/223.ts
+
 #EXTINF:-1,07 Canal de las Estrellas 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
@@ -430,6 +433,33 @@ http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="Paramount Channel" group-title="PELÍCULAS-SERIES",Paramount Channel
 http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1,Cine 3D
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1186.ts
+
+#EXTINF:-1,Canal + HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1141.ts
+
+#EXTINF:-1,CANAL +
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1416.ts
+
+#EXTINF:-1,CANAL+ ESTRENOS HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1510.ts
+
+#EXTINF:-1,CANAL+ Xtra HD SPAIN
+http://maxspeed.from-me.org:8000/live/xavi/xavi/540.ts
+
+#EXTINF:-1,CANAL+ Series Xtra HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/222.ts
+
+#EXTINF:-1,CANAL+ ACCIÓN HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1511.ts
+
+#EXTINF:-1,C+ Accion
+http://maxspeed.from-me.org:8000/live/xavi/xavi/2.ts
+
+#EXTINF:-1,DCINE ESPAÑOL
+http://maxspeed.from-me.org:8000/live/xavi/xavi/539.ts
+
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="Space" group-title="PELÍCULAS-SERIES",Space
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -575,6 +605,15 @@ http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332/1499-20150816T153535
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
 
 
+#EXTINF:-1,Teledeporte
+http://maxspeed.from-me.org:8000/live/xavi/xavi/790.ts
+
+#EXTINF:-1,Movistar Fórmula1 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/49.ts
+
+#EXTINF:-1,Movistar Moto Gp HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/48.ts
+
 
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR blue][B]» »          FOX SPORTS            « «[/B][/COLOR]
 
@@ -630,6 +669,17 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:0,Sport Time TV 7 (720)
 http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
 
+#EXTINF:-1,CANAL+ LIGA HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1040.ts
+
+#EXTINF:-1,Canal + Liga 2 HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1644.ts
+
+#EXTINF:-1,C+ Liga
+http://maxspeed.from-me.org:8000/live/xavi/xavi/5.ts
+
+#EXTINF:-1,C+ Futbol HD Spain
+http://maxspeed.from-me.org:8000/live/xavi/xavi/1643.ts
 
 #EXTINF:0 tvg-logo=\"eurosport.png\",EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -757,6 +807,9 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
+#EXTINF:-1,ES: Historia
+http://satloveriptv.com:8090/live/pakistan/pakistan/4004.ts
+
 #EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="Investigación Discovery" group-title="CULTURA-DOCUMENTAL",Investigación Discovery
 
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
@@ -769,6 +822,9 @@ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1,ES: Nat.Geographic
+http://satloveriptv.com:8090/live/pakistan/pakistan/4003.ts
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20151020T153535.ts

@@ -13,9 +13,8 @@ http://streaming.radionomy.com/80-EXITS
 http://streaming.radionomy.com/80-EXITS
 
 
-
-
 #EXTINF:0, [COLOR yellow][B]» » CANALES CALIDAD HD « «[/B][/COLOR]
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="A&E (1080)" group-title="REAL HD",A&E (1080)
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -160,6 +159,7 @@ http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?-1332/1499-20151020T153535
 
 #EXTINF:0,[COLOR cyan][B]» » CANALES DE ENTRETENIMIENTO « «[/B][/COLOR]
 
+
 #EXTINF:-1 tvg-id="ae" tvg-name="ae" tvg-logo="A&E" group-title="ENTRETENIMIENTO",01 A&E
 
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -194,6 +194,9 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1,RCG
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -608,11 +611,6 @@ http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1,Teledeporte
 http://maxspeed.from-me.org:8000/live/xavi/xavi/790.ts
 
-#EXTINF:-1,Movistar Fórmula1 HD
-http://maxspeed.from-me.org:8000/live/xavi/xavi/49.ts
-
-#EXTINF:-1,Movistar Moto Gp HD
-http://maxspeed.from-me.org:8000/live/xavi/xavi/48.ts
 
 
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR blue][B]» »          FOX SPORTS            « «[/B][/COLOR]
@@ -691,8 +689,6 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 #EXTINF:0 tvg-logo=\"tyc.png\",TYC SPORTS
 http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:0 tvg-logo=\"azdeportes.png\",Azteca Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8?
 
 #EXTINF:-1 tvg-id="PX" tvg-name="PX" tvg-logo="PX TV" group-title="DEPORTES",PX TV
 
@@ -1221,9 +1217,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR gold][B]» »          CANALES DE NOTICIAS            « «[/B][/COLOR]
 
 
-#EXTINF:-1 tvg-id="Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Azteca Noticias" group-title="NOTICIAS",Azteca Noticias
- (720) 
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?=%2F.ts
 
 
 #EXTINF:-1 tvg-id="Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Azteca Noticias (1080)" group-title="NOTICIAS",Azteca Noticias (1080)
@@ -1482,6 +1475,78 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakot
 
 #EXTINF:-1 ,[COLOR white][B]» »                   PPV                    « «[/B][/COLOR]
 
+
+#EXTINF:-1,Maggie | HD | 2015
+https://openload.co/stream/4oduQW6Bsng~1452786422~187.191.0.0~aWJb9hxF?mime=true
+
+#EXTINF:-1,Legend | HD | 2015
+https://openload.co/stream/nkPuEzGBcH8~1452786635~187.191.0.0~KPVxdvRt?mime=true
+
+#EXTINF:-1,La gran apuesta (SUB) | SD | 2015
+https://openload.co/stream/M0F8TWwHVMQ~1452786918~187.191.0.0~xHxahMJA?mime=true
+
+#EXTINF:-1,Star Wars: El despertar de la Fuerza / La guerra de las galaxias. Episodio VII: El despertar de la Fuerza | SD | 2015
+https://openload.co/stream/-tnis19_2nk~1452788998~187.191.0.0~Z8zFCrJs?mime=true
+
+#EXTINF:-1,Padres por desigual / Guerra de Papa | SD | 2015
+https://openload.co/stream/jqU4OmO_9K8~1452789403~187.191.0.0~Pch2DDXl?mime=true
+
+#EXTINF:-1,La verdad duele / Concussion | SD | 2015
+https://1llr3t.oloadcdn.net/dl/l/catClVR7JlQ/ITVnUEI0p4o/Concussion+%282015%29+-+Subtitulado+DVDScreener+720p.avi.mp4?mime=true
+
+#EXTINF:-1,Irrational Man | HD | 2015
+https://ph2dpb.oloadcdn.net/dl/l/eLRT1Aa8wb0/7PPIvs0NKl0/IrrationalMan+LatinoHD720.avi.mp4?mime=true
+
+#EXTINF:-1,No es mi tipo (SUB) / Not My Type | HD | 2014
+https://oqbkhx.oloadcdn.net/dl/l/92KoxLv1cKs/AjnC2fO39y0/No+es+mi+tipo+%282014%29+-+Subtitulado+720p.avi.mp4?mime=true
+
+#EXTINF:-1,Point break: Sin límites (SUB) | SD | 2015
+https://openload.co/stream/E1QjsctDcSI~1452801134~187.191.0.0~KfqklGOe?mime=true
+
+#EXTINF:-1,Alvin y las ardillas: Fiesta sobre ruedas | SD | 2015
+https://openload.co/stream/Z4u27fGuc0o~1452801312~187.191.0.0~k6FMHEpv?mime=true
+
+#EXTINF:-1,Anomalisa (SUB)| SD | 2015
+https://pgli8c.oloadcdn.net/dl/l/N56lUCwXv1s/lpDzArhv2UM/Anomalisa+%282015%29+-+Subtitulado+DVDScreener.avi.mp4?mime=true
+
+#EXTINF:-1,El cumple de la abuela | SD | 2015
+https://openload.co/stream/q9gU6j0ktUo~1452801800~187.191.0.0~v1FpsIdm?mime=true
+
+#EXTINF:-1,Steve Jobs | SD | 2015
+https://openload.co/stream/CQf7nl83O-E~1452801953~187.191.0.0~GtAMwpQY?mime=true
+
+#EXTINF:-1,Sufragistas (SUB) | SD | 2015
+https://openload.co/stream/TGDX1fHsQzE~1452802092~187.191.0.0~xO8ffxq4?mime=true
+
+#EXTINF:-1,El renacido (The Revenant) (SUB) | SD | 2015
+https://openload.co/stream/J7XDzFnAIEY~1452802316~187.191.0.0~t4o50tRN?mime=true
+
+#EXTINF:-1,La chica danesa (SUB) | SD | 2015
+https://oqbkhw.oloadcdn.net/dl/l/OVZTN8u5xck/PoMnL3wjckU/The+Danish+Girl+%282015%29+-+Subtitulado+DVDScreener+720p.avi.mp4?mime=true
+
+#EXTINF:-1,Trumbo: La lista negra de Hollywood (SUB)| SD | 2015
+https://openload.co/stream/AWPYakntNyQ~1452802746~187.191.0.0~Rk_xuTEP?mime=true
+
+#EXTINF:-1,Mi gran noche | SD | 2015
+https://openload.co/stream/5wSQZnvOHH8~1452802995~187.191.0.0~M2LGBt5Q?mime=true
+
+#EXTINF:-1,Carol (SUB) | SD | 2015
+https://17wy0qh.oloadcdn.net/dl/l/cCHDQXY4-1k/WMx32AMmJ70/Carol+%282015%29+-+Subtitulado+DVDScreener+720p.avi.mp4?mime=true
+
+#EXTINF:-1,En el corazón del mar | SD | 2015
+https://openload.co/stream/bhsaEGJxhYs~1452803443~187.191.0.0~9HGrg6Il?mime=true
+
+#EXTINF:-1,Mojave (SUB) | SD | 2015
+https://openload.co/stream/Y1-xsDvUaDw~1452803610~187.191.0.0~6cV6ZKs_?mime=true
+
+#EXTINF:-1,El viaje de Arlo / Un Gran Dinosaurio / Dinosapiens | SD | 2015
+https://1llr3t.oloadcdn.net/dl/l/mYdFiM3g7k0/hvVZr4W67vk/El+viaje+de+Arlo+DVD-Screener.castellano.avi.mp4?mime=true
+
+#EXTINF:-1,Joy | SD | 2015
+https://1llr3u.oloadcdn.net/dl/l/0wN8pelBVHo/lQUbbAG-ZVs/Joy+CastellanoDvDScr.avi.mp4?mime=true
+
+#EXTINF:-1,Carlitos y Snoopy: La película de Peanuts | SD | 2015
+https://openload.co/stream/omuFpwtMxyc~1452804376~187.191.0.0~QgyCuCoR?mime=true
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",los 33 
 https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv

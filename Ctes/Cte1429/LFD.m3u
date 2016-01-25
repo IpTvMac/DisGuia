@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
 
-#EXTINF:0,"Lista" [COLOR green]  I P T V  M A C  [/COLOR] - [COLOR blue]09-Enero-2016[/COLOR] 
+#EXTINF:0,"Lista" [COLOR green]  I P T V  M A C  [/COLOR] - [COLOR blue]24-Enero-2016[/COLOR] 
 http://streaming.radionomy.com/80-EXITS
 
 #EXTINF:0,".......",[B][COLOR yellow] Donaciones via [/COLOR] [COLOR white]PayPal: iptvsalt@gmail.com [/COLOR]
@@ -13,9 +13,8 @@ http://streaming.radionomy.com/80-EXITS
 http://streaming.radionomy.com/80-EXITS
 
 
-
-
 #EXTINF:0, [COLOR yellow][B]» » CANALES CALIDAD HD « «[/B][/COLOR]
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="A&E (1080)" group-title="REAL HD",A&E (1080)
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
@@ -160,6 +159,7 @@ http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?-1332/1499-20151020T153535
 
 #EXTINF:0,[COLOR cyan][B]» » CANALES DE ENTRETENIMIENTO « «[/B][/COLOR]
 
+
 #EXTINF:-1 tvg-id="ae" tvg-name="ae" tvg-logo="A&E" group-title="ENTRETENIMIENTO",01 A&E
 
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -185,12 +185,27 @@ http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
+#EXTINF:-1,C+ COMEDIA HD
+http://maxspeed.from-me.org:8000/live/xavi/xavi/223.ts
+
 #EXTINF:-1,07 Canal de las Estrellas 2
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=\"Telemundo.png\" tvg-logo=\"Telemundo.png\",Telemundo
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/43.m3u8
 
 #EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1 tvg-id=\"Mundo Fox\" tvg-logo=\"mundofox.png\" tvg-logo=\"mundofox.png\" group-title=\"Entretenimiento\",Mundo Fox
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/83.m3u8
+
+#EXTINF:-1 tvg-logo=\"wapa.png\" tvg-logo=\"wapa.png\",Wapa
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/41.m3u8
+
+#EXTINF:-1,RCG
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -246,6 +261,12 @@ http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
 
 
+#EXTINF:-1, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, FX
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="TBS Very Funny" group-title="ENTRETENIMIENTO",19 TBS Very Funny
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
@@ -267,6 +288,9 @@ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo=\"unimas.png\" tvg-logo=\"unimas.png\",UniMas HD
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/70.m3u8
+
 #EXTINF:-1,E!
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
@@ -275,6 +299,9 @@ http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 #EXTINF:-1,TNT SERIES
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+#EXTINF:-1,  GARAGE TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1,GLITZ
 http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -297,6 +324,26 @@ http://iptvnation.com/simpsons.mp4
 #EXTINF:-1 tvg-id="q" tvg-name="q" tvg-logo="Anime 2" group-title="24 HORAS",Anime 2
 
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1, 43 TV14D
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/43.m3u8
+
+#EXTINF:-1, 70 Umas
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/70.m3u8
+
+#EXTINF:-1, 97 Inova
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/97.m3u8
+
+#EXTINF:-1, 102 Cuatro
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/102.m3u8
+
+#EXTINF:-1, 108 Canal+ Comedia
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/108.m3u8
+
+
+
+
+
 
 
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR purple][B]» »          CANALES INFANTILES            « «[/B][/COLOR]
@@ -364,11 +411,14 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 
 
 
+
 #EXTINF:-1 ,tvg-logo="                   ",[COLOR orange][B]» »          CANALES DE PELICULAS            « «[/B][/COLOR]
+
 
 
 #EXTINF:-1 tvg-id=\"TV Guia_Cinemax\" tvg-name=\"Cinemax\" tvg-logo=\"cinemax.png\",Cinemax
 http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+
 
 #EXTINF:-1 tvg-id="Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="Fox 1" group-title="PELÍCULAS-SERIES",Fox 1
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -386,11 +436,11 @@ http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
-#EXTINF:-1 tvg-id="Canal Fox Comedy Latinoamérica" tvg-name="Canal Fox Comedy Latinoamérica" tvg-logo="Fox Comedy" group-title="PELÍCULAS-SERIES",Fox Comedy
-http://tiny.cc/fox-comedy-PK
-#EXTINF:-1 tvg-id="Fox Family (E)" tvg-name="Fox Family (E)" tvg-logo="Fox Family" group-title="PELÍCULAS-SERIES",Fox Family
-http://tiny.cc/fox-fam-i93rnl
+#EXTINF:-1 tvg-id=\"SkyMX_I433.223966649.microsoft.com\" tvg-name=\"Fox_Family_(E)\" tvg-logo=\"fox_family.png\" tvg-logo=\"fox_family.png\" group-title=\"Español\",Fox Family HD
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/95.m3u8
 
+#EXTINF:-1, 95 Fox Family
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/95.m3u8
 
 #EXTINF:-1 tvg-id="Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="Fox Movies" group-title="PELÍCULAS-SERIES",Fox Movies
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -403,6 +453,9 @@ http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="Golden Edge" tvg-name="Golden Edge" tvg-logo="Golden Edge" group-title="PELÍCULAS-SERIES",Golden Edge
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1 tvg-id=\"Total-MX_I432.653011974.rovicorp.com\" tvg-name=\"GDNP2432_GDNP2432Golden_Premier_Delay_(Oeste)\" tvg-logo=\"Golden_Premier_1.png\" tvg-logo=\"Golden_Premier_1.png\" group-title=\"cinema\",Golden Premier 2
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/57.m3u8
 
 #EXTINF:-1 tvg-id="ES Canal+ Acción" tvg-name="ES Canal+ Acción" tvg-logo="Canal+ Acción" group-title="PREMIUM",Canal+ Acción
 rtmp://31.220.2.57/privatestream/ playpath=accionplus91?keys=RPRneMfTKKuNj1gp2mDyzg&keyt=1448253234 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
@@ -430,6 +483,8 @@ http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="Paramount Channel" group-title="PELÍCULAS-SERIES",Paramount Channel
 http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
 
+#EXTINF:-1 tvg-id=\"Paramount Channel\" tvg-name=\"Paramount_Channel\" tvg-logo=\"paramount.png\" tvg-logo=\"paramount.png\",Paramount /usa
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/96.m3u8
 
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="Space" group-title="PELÍCULAS-SERIES",Space
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -514,6 +569,15 @@ http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 
+#EXTINF:-1, True Movies 1
+http://bit.ly/1Nb3qbw
+
+#EXTINF:-1, True Movies 2
+http://bit.ly/1NFMeMD
+
+#EXTINF:-1, Sky Movies Disney
+http://bit.ly/1SNKfGe
+
 
 
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR blue][B]» »          CANALES DE DEPORTES            « «[/B][/COLOR]
@@ -567,12 +631,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
-#EXTINF:-1 tvg-id="F1 Latino" tvg-name="F1 Latino" tvg-logo="F1 Latino" group-title="DEPORTES",F1 Latino
-http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
 
 #EXTINF:-1 tvg-id="F1 Latinoamerica (1080)" tvg-name="F1 Latinoamerica (1080)" tvg-logo="F1 Latinoamerica (1080)" group-title="DEPORTES",F1 Latinoamerica (1080)
 http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
+
 
 
 
@@ -586,8 +650,6 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
 
 
-#EXTINF:-1 tvg-id="Fox Sports 1 (FS1)" tvg-name="Fox Sports 1 (FS1)" tvg-logo="Fox Sports USA" group-title="DEPORTES",Fox Sports USA
-http://tiny.cc/foxsportusa-PK
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="Fox Sports 2" group-title="DEPORTES",Fox Sports 2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
@@ -630,7 +692,6 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:0,Sport Time TV 7 (720)
 http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
 
-
 #EXTINF:0 tvg-logo=\"eurosport.png\",EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
@@ -640,9 +701,6 @@ http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-
 
 #EXTINF:0 tvg-logo=\"tyc.png\",TYC SPORTS
 http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:0 tvg-logo=\"azdeportes.png\",Azteca Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8?
 
 #EXTINF:-1 tvg-id="PX" tvg-name="PX" tvg-logo="PX TV" group-title="DEPORTES",PX TV
 
@@ -689,9 +747,6 @@ http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max 
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1 group-title="DEPORTES",Sport TV Americas
-http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 
 #EXTINF:-1 group-title="DEPORTES",Rete 8 Sport 
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
@@ -757,9 +812,11 @@ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
 
+
 #EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="Investigación Discovery" group-title="CULTURA-DOCUMENTAL",Investigación Discovery
 
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
 
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="NatGeo" tvg-logo="NatGeo" group-title="CULTURA-DOCUMENTAL",NatGeo
@@ -769,6 +826,9 @@ http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1,ES: Nat.Geographic
+http://satloveriptv.com:8090/live/pakistan/pakistan/4003.ts
 
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -812,6 +872,9 @@ http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535
 
 #EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live HD (1080)" group-title="MÚSICA",MTV Live HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1, 75 MTV Dance
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/75.m3u8
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="VH1" group-title="MÚSICA",VH1
 
@@ -1160,14 +1223,19 @@ http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/master.m3u8
 #EXTINF:0 tvg-logo=\"tbn.png\",TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&amp;rebase=on
 
+#EXTINF:-1 tvg-id=\"TV Guia_maria vision\" tvg-logo=\"enlace.png\" tvg-logo=\"enlace.png\", Enlace TV
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/69.m3u8
+
+#EXTINF:-1, 69 Enlace
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/69.m3u8
+
+
+
 
 
 #EXTINF:-1 ,tvg-logo="                        ",[COLOR gold][B]» »          CANALES DE NOTICIAS            « «[/B][/COLOR]
 
 
-#EXTINF:-1 tvg-id="Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Azteca Noticias" group-title="NOTICIAS",Azteca Noticias
- (720) 
-http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?=%2F.ts
 
 
 #EXTINF:-1 tvg-id="Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Azteca Noticias (1080)" group-title="NOTICIAS",Azteca Noticias (1080)
@@ -1299,6 +1367,7 @@ http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332/1499-20151020T153535
 #EXTINF:-1 tvg-id="Canal 52MX" tvg-name="Canal 52MX" tvg-logo="Canal 52MX" group-title="MÉXICO",Canal 52MX
 http://201.161.59.4/canal52.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 
+
 #EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="EfektoTV" group-title="MÉXICO",EfektoTV
 
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
@@ -1329,6 +1398,9 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535
 
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 
+
+#EXTINF:-1, MULTIMEDIOS
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
 
 #EXTINF:-1 tvg-id="Once TV" tvg-name="Once TV" tvg-logo="Once TV" group-title="MÉXICO",Once TV
 http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
@@ -1371,9 +1443,14 @@ http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
 
 
 
+#EXTINF:-1 tvg-logo=\"tvmex.jpg\" tvg-logo=\"tvmex.jpg\",TV MEX TIJUANA
+http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/89.m3u8
+
 
 
 #EXTINF:-1 ,[COLOR red][B]» »                   CANALES PARA ADULTOS                     « «[/B][/COLOR]
+
+
 
 
 #EXTINF:-1,XXX 1
@@ -1387,6 +1464,84 @@ http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
 
 #EXTINF:-1, Passionxxx (18+)
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Venus
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Brazzers Tv
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Olala
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Pasiones 
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Brasileirinhas 
+http://212.129.30.215/brasileirinhas/brasileirinhas/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Channel HD 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Sex Station
+http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot XXX
+http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Ask Tv 
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",PassieXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot Shots
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Power Girls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Bella Club
+http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot 100
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Latinas
+http://tinyurl.com/pyumlyd
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Passie XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Passie XXX
+http://q.gs/9830047/sex3todokodi
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation X-Treme
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Sporting
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
 #EXTINF:-1,  4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
@@ -1426,6 +1581,43 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakot
 
 #EXTINF:-1 ,[COLOR white][B]» »                   PPV                    « «[/B][/COLOR]
 
+
+
+#EXTINF:-1, The.Vatican.Tapes.2015 (ING)
+http://bit.do/bsvZw
+
+#EXTINF:-1, PAY THE GHOST (ING)
+http://bit.do/bsvZE
+
+#EXTINF:-1, Ricki.and.the.Flash.2015 (ING)
+http://bit.do/bsvZ3
+
+#EXTINF:-1, Curious.George.3.Back.to.the.Jungle.2015 (ENG)
+http://bit.do/bsv2o
+
+#EXTINF:-1, Invisible Sister 2015 (ING)
+http://bit.do/bsv2s
+
+#EXTINF:-1, Pressure.2015 (ING)
+http://bit.do/bsv2x
+
+#EXTINF:-1, The.Atticus.Institute.2015 (ING)
+http://bit.do/bsv2W
+
+#EXTINF:-1, Sword.of.Vengeance.2015 (ING)
+http://bit.do/bsv3n
+
+#EXTINF:-1, The.True.Cost.2015 (ING)
+http://bit.do/bsv3w
+
+#EXTINF:-1, SELFLESS 2015 (ING)
+http://bit.do/bsv3D
+
+#EXTINF:-1, Momentum.2015 (ING)
+http://bit.do/bsv3M
+
+#EXTINF: 0, RESUCITADOS 2015
+https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",los 33 
 https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
@@ -1499,7 +1691,7 @@ https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m2
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",la noche del demonio 3
 https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",terminaiotr genesis
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",terminaitor genesis
 https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/genepeliculas_zpskgrg6wbd.png" group-title="GENEPELICULAS",san andres

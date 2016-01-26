@@ -395,3 +395,387 @@ Naturaleza_Salvaje http://192.240.113.42:1935/live/canal039.stream/playlist.m3u8
 Nasa_TV http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 NASA_Space_Station_Views_1 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 NASA_Space_Station_Views_2 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+MTV http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+MTV_Hits 
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+MTV_Live 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+MTV_Live_HD_(1080) 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?supertvlat=%2F.ts
+MTV_Dance http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/75.m3u8
+VH1
+ http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+VH1_HD_(1080) 
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?supertvlat=%2F.ts
+VH1_Classic
+ http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Ritmoson_Latino
+ http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+
+RITMOSON http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
+Bandamax http://201.161.59.4/bandamax.isml/manifest(format=m3u8-aapl).m3u8
+TELEHIT http://201.161.59.7/telehit.isml/manifest(format=m3u8-aapl).m3u8
+Telehit
+ http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20150816T153535.ts 
+Telehit_HD_(1080) 
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?supertvlat=%2F.ts
+Vevo_HD_1
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+Vevo_HD_2
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+Vevo_HD_3
+ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+Vevo_Nashville http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+Vevo_HD http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8 
+VEVO_2_HD http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+VEVO_3_HD http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+Eska_Best_Music_TV 
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+Eska_Rock_TV 
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+ESKA_VOX_HD http://stream.smcloud.net/live2/vox/vox_720p/playlist.m3u8
+Vevo_Hits http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+Vevo_Flow http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+Capital_TV_(UK) http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+HTV 
+http://tiny.cc/htv-260432m
+
+
+
+Kiss_TV
+ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+Melody_Channel http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+Virgin_TV
+ rtmp://fms.105.net:1935/live/virgin2
+Top_Music-CityTV http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+MIMUSICA_HD http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+TIGO_MUSIC http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+ESKA_Best_Music_HD http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+CAPITAL_TV http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+HEART_TV http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+Telemusica http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+VM_Music http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+DJING_Dancefloor_HD http://www.djing.com/tv/d-05.m3u8
+DJING_Underground_HD http://www.djing.com/tv/u-05.m3u8
+DJING_Animation_HD http://www.djing.com/tv/a-05.m3u8
+DJING_Classic_HD http://www.djing.com/tv/i-05.m3u8
+Clubbing_TV http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+Real_Hip_Hop_Network http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+Heavy_Metal_Tv_ANGLO http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+Radio_Tiempo http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+Radio_Zero http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+Radio_la_Clave http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+Tele13_Radio http://cdn.ztreaming.com/t13radio/mobile.m3u8
+USA http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
+Radio_Beatles http://108.61.73.119:8062/;stream.nsv
+Nacional http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
+USA http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
+Internacional http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
+Europa http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
+Adulto_Contemporaneo http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
+Power_ballads http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
+Bossa_Nova http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
+Brasil http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
+BritPop http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
+Chillout http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
+Cuarteto http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
+Estrenos http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
+Electronica http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
+Electronic_Tango http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
+Fiesta_Dance http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
+Lentos http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
+Lentos_00s http://buecrplb01.cienradios.com.ar/Lentos_2000_32000.aac?
+Live_Music http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
+Reggae http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
+Reggaeton http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
+Rock Hits http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
+Rock_Latinoamericano http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
+Salsa http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
+Smooth_Jazz http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
+Top_40 http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
+Top_Europa http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
+Top_100_Mexico http://buecrplb01.cienradios.com.ar/Hot_100_Mexico_32000.aac
+Reiki http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
+Clasica http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
+Clasica_Cine http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
+Clasica_Meditacion http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
+Musica_de_Siempre http://buecrplb01.cienradios.com.ar/La_Musica_De_Siempre_64000.aac
+Romantica_70s http://buecrplb01.cienradios.com.ar/Romantica_70_32000.aac?
+Romantica_90s http://buecrplb01.cienradios.com.ar/Romantica_90_64000.aac?
+Hot_100 http://buecrplb01.cienradios.com.ar/Romantica_2000_32000.aac?
+Romantica http://buecrplb01.cienradios.com.ar/Romantica_32000.aac
+Hot_100_latino http://buecrplb01.cienradios.com.ar/Hot_100_Latino_32000.aac?
+latina http://buecrplb01.cienradios.com.ar/Latina_64000.aac?
+Canal IMEFI TV rtmp://wms.tecnoxia.com:80/8322//8322
+BYU_TELEVISION http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_840_av-b.m3u8?sd=10&rebase=on
+BYU_TELEVISION_LATINO http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+MARIAVISION http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
+ENLACE_TV http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+Esne(RELIGION) http://198.154.228.82:1935/live/esnetv/playlist.m3u8
+CTNI(RELIGION) http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?
+TELEAMIGA_(RELIGION) http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+TELE_VIDA_(RELIGION) http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
+ENLACE_Joven_TV http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+BYU_TELEVISION_(RELIGION) http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_840_av-b.m3u8?sd=10&rebase=on
+Bethel_Gospel http://streamtv.betheltv.pe:1935/bethelgospelhd/ngrp:streamingbethel25hd_all/playlist.m3u8
+Ewtn http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8
+RTV http://178.32.53.254/radiovida/mobile/playlist.m3u8
+Alcance_tv http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8
+Esperanza_tv http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
+Red_Advenir http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+3ABN http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/master.m3u8
+TBN http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&amp;rebase=on
+Enlace_TV http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/69.m3u8
+Enlace http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/69.m3u8
+Azteca_Noticias_(1080)
+ http://200.76.77.237/LIVE/H01/CANAL2/PROFILE05.m3u8?=%2F.ts
+Foro_TV 
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Milenio_TV`
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+FOX_NEWS http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+C7_Noticias http://74.63.97.188:1935/c7/videoc7/chunklist_w1292887050_b125000.m3u8
+Canal_24_horas http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8
+3/24 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+CNN_NEWS_USA http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/186.m3u8
+ABC_News http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+TN rtsp://stream.tn.com.ar/live/tnhd1
+C5N rtmp://c5n.stweb.tv:1935/c5n/live
+Canal_26_Noticias rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+360TV http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+Canal_Rural rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+RT_Russia_Today 
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+
+Euronews_UK 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+Euronews_(SP) http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+Euronews http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+Cable_Noticias http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+El_Tiempo http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+TVE_24_Horas http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+RT_Rusia_Hoy http://rt.api.visionip.tv/live/ASHTTP/RT_en_Espanol-MB/playlist.m3u8
+CB24_Centroamerica http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+RT_International http://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
+Arirang_TV http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+The_Weather_Channel 
+http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish3/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8
+
+ABC_News http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+i24_News
+ http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/650.m3u8
+
+Teveo_Miami http://q.gs/9830047/tveomiamitodokodim3u8
+
+WFTV_Florida
+ http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+
+WGN_9_(720) 
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_700_av-p.m3u8?sd=10&rebase=on
+
+
+Az_Corazon
+ http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Azteca_7 
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Azteca_Internacional
+ http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Canal_2_HD
+ http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Canal_5_HD 
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Canal_52MX 
+http://201.161.59.4/canal52.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+
+EfektoTV
+ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+El_Trece 
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Foro_TV 
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Gala_TV
+ http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+HMX
+ http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Milenio_TV 
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Multimedios_Monterrey
+ http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+MULTIMEDIOS http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
+Once_TV 
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Proyecto_40 
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+TeleFórmula
+ http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Canal_2_Obregon 
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+Canal_7 Mazatlan 
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
+Canal_del_Congreso 
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+
+Info_7_(Azteca Monterrey) 
+http://38.104.228.230:1938/info7/info7_512/chunklist_w934161884.m3u8
+
+RTG_Guerrero 
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+
+TV_Mas 
+rtmp://50.7.98.234/rtv/videortv
+
+Telemar_Campeche 
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+
+
+TV_MEX_TIJUANA http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/89.m3u8
+XXX_1 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w95313209.m3u8
+Jasmin_TV_Adulto http://109.71.162.112:1935/live/sd.jasminchannel.stream/media.m3u8
+Private.com_(18+) http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
+Passionxxx_(18+) http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+Venus http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+Brazzers_Tv http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+Olala http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+Pasiones http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+Brasileirinhas http://212.129.30.215/brasileirinhas/brasileirinhas/live.m3u8
+Private http://178.33.126.213:1935/leved/privateCom/.m3u8
+Jazmin_Tv rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+Jazmin_Channel_HD http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+Sex_Station http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
+Hot_XXX http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
+Ask_Tv http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+LiveSex http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+LiveSex_Latinas http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+PassieXXX http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+Hot_Shots http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+Power_Girls http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+Bella_Club http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+Hot_100 http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+Latinas http://tinyurl.com/pyumlyd
+Passie_XXX http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+Passie_XXX http://q.gs/9830047/sex3todokodi
+BabeStation_X-Treme http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+BabeStation_Sporting http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+BabeStation_Unleashed_2 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+BabeStation_Xtra http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+Babestation_Blue http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+VOD1 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+VOD2 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+VOD3 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+VOD4 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+VOD5 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+VOD6 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+VOD7 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+VOD8 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+VOD9 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+VOD10 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+VOD11 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+The.Vatican.Tapes.2015_(ING) http://bit.do/bsvZw
+PAY_THE_GHOST_(ING) http://bit.do/bsvZE
+Ricki.and.the.Flash.2015_(ING) http://bit.do/bsvZ3
+Curious.George.3.Back.to.the.Jungle.2015_(ENG) http://bit.do/bsv2o
+Invisible_Sister_2015_(ING) http://bit.do/bsv2s
+Pressure.2015_(ING) http://bit.do/bsv2x
+The.Atticus.Institute.2015_(ING) http://bit.do/bsv2W
+Sword.of.Vengeance.2015_(ING) http://bit.do/bsv3n
+The.True.Cost.2015_(ING) http://bit.do/bsv3w
+SELFLESS_2015_(ING) http://bit.do/bsv3D
+Momentum.2015_(ING) http://bit.do/bsv3M
+RESUCITADOS_2015 https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
+los_33 https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
+Mision_imposible:_Nacion_secreta https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22
+El_corredor_del_laberinto:_Las_pruebas https://lh3.googleusercontent.com/WlRQXHAxQDggBnivUw3UfdUrzq2k7wydHwddwwG8Hq4=m37
+Ted_2 https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
+Agente_47 https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
+Ant-Man https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
+Cuatro_fantásticos https://lh3.googleusercontent.com/r_lQGT85Xwm4tHmn0-8U_1fj1GzZ6pkM2H5g3CDZB_Y=m37
+temblores_5 https://lh3.googleusercontent.com/1bxhg8RIjBIftRtL0ZKDz38qcln94jAKB7iOo7PrkKU=m37
+El_Hombre_de_los_Puños_de_Hierro_2 https://lh3.googleusercontent.com/RK7kv_x2svBc7XEta4mW2IvbLfqY69x5xBnWiwtSY0I=m37
+El_instituto_Atticus https://lh3.googleusercontent.com/5CkLgcat0brSOoy4-nwYJg1H-00LwRDT9zIJwIeAxao=m37
+Operación_U.N.C.L.E https://lh3.googleusercontent.com/uTkhgow9fq0pni2v-PTxcgm9wkxAip7SNat75rv0fLc=m37
+Golpe_de_estado https://lh3.googleusercontent.com/V9qoIWHKSpDwp_6PTX4_naTikgYA7_UvlGe-8GwTHyg_=m37
+Y_de_repente_tú https://lh3.googleusercontent.com/l836qeCIydBWq_k_8c607OKHlNIz-yArAppWPFnSfxQ=m22
+La_espada_de_la_venganza https://lh3.googleusercontent.com/7h3UYBtfuX6k1Y0kQYlvGFyTocckzcIOtm4DixK70bo=m37
+Lugares_oscuros https://lh3.googleusercontent.com/SH7T9Evpzdf_lmLFqIkodKG8hVZIfAaerFyP2W3VO-U=m37
+Los_Minions https://lh3.googleusercontent.com/9_cNr_2SalPRNHmmzLdw8xVVbcKutION1s1VAJanEOA=m37
+intensamente https://lh3.googleusercontent.com/02BKZzeWuDqdLLyTPx5nhCz1jYTRQGIJ03en0saaJZQ=m37
+Exorcismo_en_el_Vaticano https://lh3.googleusercontent.com/3TmcOI7_uFJgdpUtVu6wH_5hp8xU1osDiZRyI-zVcbs=m37
+La_Horca https://lh3.googleusercontent.com/satEWb2K52Sm3v-IX_ELkKwX_tQSUw3WAg5ZEIkmqHU=m22
+El_rey_Escorpión_4:_La_búsqueda_del_poder https://lh3.googleusercontent.com/ZZc_Ipglvp2NNBi51MmQSbVBCJTujCP1E2S2xSkDFO0=m37
+pixels https://lh3.googleusercontent.com/vMM2B0DcwJ2CcCIThv3m2tqS7IO8t-4pq6kvGYmoF-0=m37
+max https://lh3.googleusercontent.com/61YJ3LAY3Zt6OWvU7QQWdFBRwvjJ2NFDl44Q1an6j_0=m22
+poltergeist https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m22
+la_noche_del_demonio_3 https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37
+terminaitor_genesis https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37
+san_andres https://lh3.googleusercontent.com/pqTdKWzE182PQvE41ARqAk2zdaICrpXAc9lIIpTkOw=m37
+los_vengadores:la_era_de_ultron https://lh3.googleusercontent.com/Vf4jaYQZNOpN2i434cZ-UC4BDcqLWCNu0LN26d_plw=m37
+espias https://lh3.googleusercontent.com/w9w_o270iOxdJTuoeZx_hgiP4rWIfF3QdLZvFsAh2Q=m37
+mad_max https://lh3.googleusercontent.com/o_jCd6TJvXDAR5bSCijbwrRcghP8-mnRIi0Fw7VUPAU=m22 
+jurassic_world https://lh3.googleusercontent.com/xEXCWyVx_iaeFU-9jFTJ9u8WMUnrfQhEcgJ4qmz-aSI=m37
+rapido_y_furioso_7 https://lh3.googleusercontent.com/rm5slhL7s9rcPnqeXEhvePu0i5bHebkZIXMhugY9fYk=m22
+guardianes_de_os https://lh3.googleusercontent.com/ZOiRcsJUqIa03P6TXma20gm9YMriG-uKYreA_vJSkcE=m37
+pisandonos_los_tacones https://lh3.googleusercontent.com/oKYj7yO-QCqrqNFI72olg5ow1zLJ-zMwC9xZ8R7EgMY=m37
+demonic https://lh3.googleusercontent.com/_GtlHHjHPg9IKsGMBrXTEuieM5VgJk2kgFYFvMh6sVo=m37
+The_Lazarus_Effect https://lh3.googleusercontent.com/dkzpC11CpJcEGVqqPRmqzlitXJTqNlUt7XrwbZEC4Eo=m37
+divergente https://lh3.googleusercontent.com/zGytAKZPybT_X2bDxJeuixIO82Q_yka7f0EtDWCplmU=m37
+superpoli_en_las_vegas https://lh3.googleusercontent.com/NXj_pwMvmop9MU4uNjteDtMKMJjsKI_a19FVmwcy3iY=m37
+Blackhat-Amenaza_en_la_red https://lh3.googleusercontent.com/kqhvIkF0s3OSdSaf89cS1LLXaQg0l0AgxSUJW94pNKw=m37
+chappie https://lh3.googleusercontent.com/tlBA7y-qxAu-e4QhY2dxaMUFjhcLki309SVAebSS9TA=m37
+Una_noche_para_sobrevivir https://lh3.googleusercontent.com/QdxBEhFU2tRoqwYjToVwTQKMmcFOlGx1KFtS0Eot6yA=m22
+el_destino_de_jupiter https://lh3.googleusercontent.com/I2OBhUIt1pqJPJsgqOn5vvY32btHoGOf-D0PcOsUsVs=m37
+Ex_Machina https://lh3.googleusercontent.com/PpVxhokBwK2HNzKVsW_0bdG78u1j77-Y65t6I47-nQ0=m37
+focus https://lh3.googleusercontent.com/qjH6stagxP3LkLJQa4Biai0H4FXPauyrqOD39zT8kvM=m37
+Cincuenta_sombras_de_Grey https://lh3.googleusercontent.com/tW0c8Um-5OKVjGJMZhJSKqUvpGDG64-dN1SJpPhhxBw=m37
+Home_Sweet_Hell https://lh3.googleusercontent.com/yuqPC5p7Oi_0cmt_M56H6cMc9IrbICERYSQWAqOhPto=m37
+Bikini_Model_Academy_(subs) https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
+Road_Wars https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
+Estreno https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
+Beasts_of_No_Nation_Latino_Dual https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
+Coche_policial https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
+Vicio_Dual https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
+Howl https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
+Atrapado_en_los_90s https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
+Dragon_Ball_Z:_La_Resurrección_de_Freezer https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
+AREA_51 https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+The_Contract https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+Vacaciones https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
+Exorcismo_En_El_Vaticano https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+The_Exorcism_of_Molly_Hartley https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+Knock Knock https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+Knock_Knock_(SUB) https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+Escupire_Sobre_Tu_Tumba_3_[Sub] https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
+La_Revancha_1080p_(Dual) https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
+Yo-él_y_Raquel_Latino(Dual)(1080p) https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
+Jugada_Salvage_(1080p)_Dual https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
+Disney_Nature_El_reino_de_los_monos https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
+Aire_(latino)_(1080) https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
+El_Secreto_De_Adaline_(latino) https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
+Tracers_(Dual)1080p https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
+CARTAS_AL_CIELO_(SUB) http://iptvcanales.com/xw/peliculas.php?movie=008
+DALE_DURO_(Esp) http://iptvcanales.com/xw/peliculas.php?movie=015
+BARBIE_SUPER_PRINCESA_(2015) http://iptvcanales.com/xw/pinfantiles.php?movie=178
+THE_GUNMAN:_EN_LA_MIRA_(SUBTITULADA) http://www.spruto.tv/get_file/5/4b884c2c374315966a3dc6c6c1e5c154/120000/120002/120002.mp4
+PERDIENDO_EL_NORTE_(esp 2015) http://www.spruto.tv/get_file/5/6a25b4ae49ab17330c8f5a55e6448f97/118000/118625/118625.mp4
+BARELY_LETHAL_(Sub 2015) http://www.spruto.tv/get_file/5/5d592f0ec74f0cf1a0e0849f11801959/118000/118673/118673.mp4
+ROBOCOP_(esp 2015) https://ia800305.us.archive.org/33/items/4obocop./4obocop..mp4

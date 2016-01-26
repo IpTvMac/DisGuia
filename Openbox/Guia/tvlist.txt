@@ -1,0 +1,397 @@
+﻿A&E http://200.76.77.237/LIVE/H01/CANAL211/PROFILE05.m3u8?supertvlat=%2F.ts
+
+AMC_HD http://200.76.77.237/LIVE/H01/CANAL444/PROFILE05.m3u8?supertvlat=%2F.ts
+
+AXN http://200.76.77.237/LIVE/H01/CANAL213/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Az_Clic 
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+Az_Corazón 
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE05.m3u8?supertvlat=%2F.ts
+
+BBC_Entertainment http://200.76.77.237/LIVE/H01/CANAL253/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Canal_5 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?supertvlat=%2F.ts
+CBeebies http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Cinecanal_HD http://200.76.77.237/LIVE/H01/CANAL430/PROFILE05.m3u8?supertvlat=%2F.ts
+Comedy_Central http://200.76.77.237/LIVE/H01/CANAL217/PROFILE05.m3u8?supertvlat=%2F.ts
+
+De_Pelicula_HD http://200.76.77.237/LIVE/H01/CANAL442/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Distrito_Comedia http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+Canal_2 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Foro_TV http://200.76.77.237/LIVE/H01/CANAL104/PROFILE05.m3u8?supertvlat=%2F.ts
+Fox 
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Fox_1 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?supertvlat=%2F.ts
+Fox_Action_HD http://200.76.77.237/LIVE/H01/CANAL416/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Fox_Life http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?supertvlat=%2F.ts
+Fox_Movies http://200.76.77.237/LIVE/H01/CANAL417/PROFILE05.m3u8?supertvlat=%2F.ts
+FX_HD 
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+Gala_TV http://200.76.77.237/LIVE/H01/CANAL109/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Golden_HD http://200.76.77.237/LIVE/H01/CANAL436/PROFILE05.m3u8?supertvlat=%2F.ts
+History_Channel http://200.76.77.237/LIVE/H01/CANAL353/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+Multimedios_Monterrey http://200.76.77.237/LIVE/H01/CANAL167/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Nick_HD http://200.76.77.237/LIVE/H01/CANAL315/PROFILE05.m3u8?supertvlat=%2F.ts
+Once_TV http://200.76.77.237/LIVE/H01/CANAL111/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Proyecto_40 http://200.76.77.237/LIVE/H01/CANAL140/PROFILE05.m3u8?supertvlat=%2F.ts
+Sony 
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE05.m3u8?supertvlat=%2F.ts
+
+The_Film_Zone_HD http://200.76.77.237/LIVE/H01/CANAL440/PROFILE05.m3u8?supertvlat=%2F.ts
+
+TNT_HD 
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE05.m3u8?supertvlat=%2F.ts
+
+TNT_Series http://200.76.77.237/LIVE/H01/CANAL266/PROFILE05.m3u8?supertvlat=%2F.ts
+TruTV_HD http://200.76.77.237/LIVE/H01/CANAL215/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Unicable http://200.76.77.237/LIVE/H01/CANAL218/PROFILE05.m3u8?supertvlat=%2F.ts
+
+Warner_Channel http://200.76.77.237/LIVE/H01/CANAL205/PROFILE05.m3u8?supertvlat=%2F.ts
+
+HMX 
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+AE http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+AXN 
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+AXN_White rtmp://31.220.0.186/privatestream/playpath=whiteaxn7?Keys=uzXGqXP_SwqAYubK2vS5w&keyt=1448251237swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+
+BBC_HD http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?supertvlat=%2F.ts
+
+Comedy_Central http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Distrito_Comedia http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+C+_COMEDIA_HD http://maxspeed.from-me.org:8000/live/xavi/xavi/223.ts
+Canal_de_las_Estrellas_2 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+Telemundo http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/43.m3u8
+Unicable 
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Mundo_Fox http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/83.m3u8
+Wapa http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/41.m3u8
+RCG http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+Tlnovelas http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+HOLATV http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+Az_Clic 
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+Az_Corazon http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+E!_Entertainment_Television http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+El_Gourmet http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+UK_Fashion_TV_(FTV) http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+Fashion http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+Garage_TV http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+Glitz 
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+I.Sat 
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+Canal_Lifetime_Latinoamérica http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Sony 
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+SyFy 
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
+UNIVERSAL http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+FX http://200.76.77.237/LIVE/H01/CANAL209/PROFILE05.m3u8?supertvlat=%2F.ts
+TBS http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Fox http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Life http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+FX
+ http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Miami_TV_Channel 
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+
+UniMas_HD http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/70.m3u8
+E! http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+ID http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+TNT_SERIES http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+GARAGE_TV http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?supertvlat=%2F.ts
+GLITZ http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+TBS http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+tve http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+Anime 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+The_Simpsons_USA http://iptvnation.com/simpsons.mp4 
+
+Anime_2
+ http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
+TV14D http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/43.m3u8
+Umas http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/70.m3u8
+Inova http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/97.m3u8
+Cuatro http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/102.m3u8
+Canal+_Comedia http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/108.m3u8
+Boomerang 
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Cartoon_Network_(SP) http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+Cartoon_Network http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+CBeebies 
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Discovery_Kids http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Disney_Channel http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Disney_Jr 
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Disney_XD http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Nick_HD 
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Nick_Jr 
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Nickelodeon_(Nick) http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+NickToons 
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+TIIN http://200.76.77.237/LIVE/H01/CANAL325/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
+Tooncast 
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+Anime_TV http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+HBO_Signature_Latinoamerica http://latino-webtv.ml:86/451/playlist.m3u8
+Cinemax http://201.161.59.7/cinemax.isml/manifest(format=m3u8-aapl).m3u8
+Fox_1 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Action
+ http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Fox_Cinéma 
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Fox_Classics 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Family_HD http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/95.m3u8
+Fox_Family http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/95.m3u8
+Fox_Movies
+ http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Golden 
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Golden_Edge 
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Golden_Premier_2 http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/57.m3u8
+Golden_Premier_2 http://latino-webtv.ml:86/4772/playlist.m3u8
+Canal+_Acción 
+rtmp://31.220.2.57/privatestream/ playpath=accionplus91?keys=RPRneMfTKKuNj1gp2mDyzg&keyt=1448253234swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+Canal+_Comedia 
+rtmp://31.220.0.196/privatestream/ playpath=comediaplus78?keys=H0zdz77An0FaJybH3o9FtQ&keyt=1448251981 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+Canal+_DCine 
+rtmp://31.220.2.54/privatestream/ playpath=dcineplus01?keys=Kl5vr9NcXBXbBVhkhJgDvw&keyt=1448254495 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+Hollywood 
+rtmp://31.220.0.134/privatestream/ playpath=hollywood77?keys=yMJH3vHj5bPM54jeABBhvg&keyt=1448254602 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf
+Multicinema 
+http://201.161.59.7/multicinema.isml/manifest(format=m3u8-aapl).m3u8
+Multipremier 
+http://201.161.59.7/multipremiere.isml/manifest(format=m3u8-aapl).m3u8
+Paramount_Channel
+ http://201.161.59.7/paramount.isml/manifest(format=m3u8-aapl).m3u8
+Paramount_usa http://162.243.77.230:9172/live/PlayKodi-C/PlayKodi-C/96.m3u8
+Space 
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Studio_Universal
+ http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+Universal_Channel_USA_HD_(1080) http://200.76.77.237/LIVE/H01/CANAL207/PROFILE05.m3u8?supertvlat=%2F.ts
+
+TCM http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+The_Film_Zone_HD 
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+TNT http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+TNT_HD 
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+TNT_Series 
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?supertvlat=%2F.ts
+
+Universal_Channel 
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Warner_Channel
+ http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+AMC
+ http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Az_Cinema 
+http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+PELÍCULAS-SERIES http://sodaloca.x10.mx/Soda.php?canal=3465&F=.m3u8
+Cine_Latino 
+http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8  
+
+Cinecanal_(W) 
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Cinecanal_+ 
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+De_Pelicula 
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+DHE 
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+
+MBC_Action 
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
+MBC_Max
+ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+True_Movies_1 http://bit.ly/1Nb3qbw
+True_Movies_2 http://bit.ly/1NFMeMD
+Sky_Movies_Disney http://bit.ly/1SNKfGe
+ESPN 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+ESPN_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+
+#ESPN_+ 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+ESPN_+_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+ESPN_2
+ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+ESPN_2_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+
+ESPN_3
+ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+ESPN_3_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+ESPN_HD 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?supertvlat=%2F.ts
+ESPN_HD_(1080) 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?supertvlat=%2F.ts
+Real_Madrid_TV 
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+
+AyM_Sports 
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+DEPORTES_F1_Latinoamerica_(1080) 
+http://200.76.77.237/LIVE/H01/CANAL511/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+
+F1_Latinoamerica http://latino-webtv.ml:86/1695/playlist.m3u8
+UFC_Network http://latino-webtv.ml:86/9628/playlist.m3u8
+TDN_Mexico http://latino-webtv.ml:86/1059/playlist.m3u8
+Univision_TDN http://latino-webtv.ml:86/1483/playlist.m3u8
+Fox_Sports
+ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Sports_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Sports_2
+ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Fox_Sports_2_(1080p) 
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+
+Sport_Time_TV_1_(720) http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
+Sport_Time_TV_2_(720) http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
+Sport_Time_TV_2HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+Sport_Time_TV_3HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+Sport_Time_TV_4_(720) http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
+Sport_Time_TV_4HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+Sport_Time_TV_5HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+Sport_Time_TV_6HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+Sport_Time_TV_7HD rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+Sport_Time_TV_7_(720) http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
+EUROSPORT http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+NBC_Golf 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+TYC_SPORTS http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+PX_TV http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+
+Sport_TV_1_Portugal 
+rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+Sport_TV_2_Portugal 
+rtmp://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+Sport_TV_3_Portugal
+ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+Pac12_Mountain http://xrxs.net/video/live-p12moun-4728.m3u8
+Pac12_Oregon http://xrxs.net/video/live-p12oreg-4728.m3u8
+Pac-12_BAY_AREA http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
+Pac-12_LOS_ANGELES http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
+Pac-12_WASHINGTON http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
+Pac_National http://xrxs.net/video/live-p12netw-4728.m3u8
+NFL_Now http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+Canal_Deporte_Olimpico http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+AM_Sport http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
+CDN_Sport_Max http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+Rete_8_Sport http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
+Kazsport http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
+Win_Sports
+ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+Motors_TV_UK 
+rtmp://31.220.2.149:80/live playpath=motors swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=motors&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z timeout=10
+
+Redbull_TV 
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+Sportv_kADIN_Rusia http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+One http://motorsport.hopto.org:8080/
+Animal_Planet 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Discovery_Channel http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Discovery_Civilization
+ http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Discovery_Science http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Discovery_Turbo
+ http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Discovery_World http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+Discovery_Theater
+ http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+History_Channel 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+Investigación_Discovery
+ http://200.76.77.237/LIVE/H01/CANAL263/PROFILE05.m3u8?-1332/1499-20150816T153535.ts
+NatGeo 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+NatGeo_Wild
+ http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Nat_Geographic http://satloveriptv.com:8090/live/pakistan/pakistan/4003.ts
+TLC 
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+WOBI 
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+Ingenio_TV
+ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+
+Naturaleza_Salvaje http://192.240.113.42:1935/live/canal039.stream/playlist.m3u8?username=edvaldez&password=123
+Nasa_TV http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+NASA_Space_Station_Views_1 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+NASA_Space_Station_Views_2 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
